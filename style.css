@@ -1,0 +1,28 @@
+body {
+font-family: Arial;
+margin:0;
+text-align:center;
+background: linear-gradient(to right,#dfe9f3,#ffffff);
+}
+
+header {
+background:#222;
+color:white;
+padding:20px;
+}
+
+nav a {
+margin:10px;
+text-decoration:none;
+color:#007BFF;
+}
+
+.hero img {
+width:180px;
+border-radius:50%;
+}
+
+.dark {
+background:#121212;
+color:white;
+}
